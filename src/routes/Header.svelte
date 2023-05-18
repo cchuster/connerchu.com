@@ -1,12 +1,18 @@
 <script>
 	import Icon from '@iconify/svelte';
+	import { slide } from 'svelte/transition';
 
 	let navbarActive = false;
 
 	function toggleNavbar() {
 		navbarActive = !navbarActive;
 	}
+
+	const desktopSize = 1024;
+	let windowWidth = 0;
 </script>
+
+<svelte:window bind:innerWidth={windowWidth} />
 
 <nav class="navbar">
 	<div class="container">
@@ -20,13 +26,15 @@
 				<span />
 			</span>
 		</div>
-		<div class="navbar-menu {navbarActive ? 'is-active' : ''} is-size-4-desktop">
-			<div class="navbar-start mx-auto">
-				<a href="/research" class="navbar-item mr-60-desktop">Research</a>
-				<a href="/resume" class="navbar-item mr-60-desktop">Resume</a>
-				<a href="/projects" class="navbar-item">Projects</a>
+		{#if navbarActive || windowWidth >= desktopSize}
+			<div transition:slide class="navbar-menu is-active is-size-4-desktop">
+				<div class="navbar-start mx-auto">
+					<a href="/research" class="navbar-item mr-60-desktop">Research</a>
+					<a href="/resume" class="navbar-item mr-60-desktop">Resume</a>
+					<a href="/projects" class="navbar-item">Projects</a>
+				</div>
+				<a class="navbar-item"><Icon icon="bi:translate" /></a>
 			</div>
-			<a class="navbar-item"><Icon icon="bi:translate" /></a>
-		</div>
+		{/if}
 	</div>
 </nav>
