@@ -1,5 +1,4 @@
 <script>
-	import { onMount } from 'svelte';
 	import Header from './Header.svelte';
 	import Icon from '@iconify/svelte';
 	import tippy from 'svelte-tippy';
@@ -23,7 +22,7 @@
 <section class="hero is-link is-fullheight-with-navbar">
 	<div class="hero-body">
 		<OnMount>
-			<div class="container has-text-centered" transition:fade>
+			<div class="container has-text-centered" in:fade>
 				<p class="title">Conner Chu</p>
 			</div>
 		</OnMount>
