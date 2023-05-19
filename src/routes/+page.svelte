@@ -1,8 +1,11 @@
 <script>
+	import { onMount } from 'svelte';
 	import Header from './Header.svelte';
 	import Icon from '@iconify/svelte';
 	import tippy from 'svelte-tippy';
+	import { fade } from 'svelte/transition';
 	import 'tippy.js/dist/tippy.css';
+	import OnMount from './OnMount.svelte';
 
 	let tooltipContent = 'Click to copy';
 
@@ -19,9 +22,11 @@
 
 <section class="hero is-link is-fullheight-with-navbar">
 	<div class="hero-body">
-		<div class="container has-text-centered">
-			<p class="title">Conner Chu</p>
-		</div>
+		<OnMount>
+			<div class="container has-text-centered" transition:fade>
+				<p class="title">Conner Chu</p>
+			</div>
+		</OnMount>
 	</div>
 	<div class="hero-foot">
 		<div class="container has-text-centered mb-3 is-size-3">
