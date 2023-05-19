@@ -8,8 +8,20 @@
 		navbarActive = !navbarActive;
 	}
 
-	const desktopSize = 1024;
 	let windowWidth = 0;
+	const desktopSize = 1024;
+
+	function slideBurger(node, options) {
+		const slideTransition = slide(node, options);
+		if (windowWidth >= desktopSize) {
+			return {
+				duration: 0,
+				css: ''
+			};
+		} else {
+			return slideTransition;
+		}
+	}
 </script>
 
 <svelte:window bind:innerWidth={windowWidth} />
@@ -26,7 +38,7 @@
 		</span>
 	</div>
 	{#if navbarActive || windowWidth >= desktopSize}
-		<div transition:slide class="navbar-menu is-active is-size-4-desktop">
+		<div transition:slideBurger class="navbar-menu is-active is-size-4-desktop">
 			<div class="navbar-start mx-auto">
 				<a href="/research" class="navbar-item mr-60-desktop">Research</a>
 				<a href="/resume" class="navbar-item mr-60-desktop">Resume</a>
