@@ -38,7 +38,10 @@
 		</span>
 	</div>
 	{#if navbarActive || windowWidth >= desktopSize}
-		<div transition:slideBurger class="navbar-menu is-active is-size-4-desktop">
+		<div
+			transition:slideBurger
+			class="navbar-menu {navbarActive ? 'is-active' : ''} is-size-4-desktop"
+		>
 			<div class="navbar-start mx-auto">
 				<a href="/research" class="navbar-item mr-60-desktop">Research</a>
 				<a href="/resume" class="navbar-item mr-60-desktop">Resume</a>
