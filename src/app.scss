@@ -11,7 +11,7 @@
 
 @include desktop {
   .mr-60-desktop {
-    margin-right: 60px !important;
+    margin-right: 15vw !important;
   }
   
   .is-size-4-desktop {
@@ -22,4 +22,9 @@
 .navbar-menu.is-active {
   position: absolute;
   width: 100%;
-} 
+}
+
+.navbar-item:hover {
+  background-color: transparent;
+  color: inherit;
+}
