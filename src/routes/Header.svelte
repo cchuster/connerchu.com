@@ -26,12 +26,12 @@
 
 <svelte:window bind:innerWidth={windowWidth} />
 
-<nav class="navbar is-dark" style="background-color: #1A1A1A;">
+<nav class="navbar is-transparent" style="background-color: #1A1A1A;">
 	<div class="navbar-brand is-size-3">
 		<a
 			class="navbar-item is-hidden-desktop"
 			href="/"
-			style="font-size: 3vw; color:white; margin-left: .5%; margin-top: .5%"
+			style="font-size: 3vh; color:white; margin-left: .5%; margin-top: .5%"
 			><Icon icon="fa6-solid:house-chimney" /></a
 		>
 		<span class="navbar-burger {navbarActive ? 'is-active' : ''}" on:click={toggleNavbar}>
@@ -49,7 +49,7 @@
 			<a
 				class="navbar-item is-hidden-touch"
 				href="/"
-				style="font-size: 3.5vh; color:white; margin-left: .5%; margin-top: .5%"
+				style="font-size: 3vh; color:white; margin-left: .5%; margin-top: .5%"
 				><Icon icon="fa6-solid:house-chimney" /></a
 			>
 			<div class="navbar-start mx-auto">

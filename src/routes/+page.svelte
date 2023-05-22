@@ -18,7 +18,15 @@
 </script>
 
 <svelte:head>
-    <style>html,body {overflow-y:hidden; height:100%}</style>
+	<style>
+		@media (min-width: 768px) {
+			html,
+			body {
+				overflow-y: hidden;
+				height: 100%;
+			}
+		}
+	</style>
 </svelte:head>
 
 <Header />
@@ -34,8 +42,10 @@
 	</div>
 	<div class="hero-foot">
 		<div class="container has-text-centered mb-3 is-size-3">
-			<a href="https://github.com/cchuster" style="font-size: 4vh;"><Icon icon="mdi:github" /></a>
-			<a href="https://www.linkedin.com/in/connerchu" style="font-size: 4vh;"><Icon icon="mdi:linkedin" /></a>
+			<a href="https://github.com/cchuster" target="_blank" style="font-size: 4vh;"><Icon icon="mdi:github" /></a>
+			<a href="https://www.linkedin.com/in/connerchu" target="_blank" style="font-size: 4vh;"
+				><Icon icon="mdi:linkedin" /></a
+			>
 			<a
 				href="javascript:void(0);"
 				style="font-size: 4vh;"
