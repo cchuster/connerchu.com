@@ -49,7 +49,7 @@
 			<a
 				href="javascript:void(0);"
 				style="font-size: 4vh;"
-				use:tippy={{ content: tooltipContent, placement: 'top' }}
+				use:tippy={{ content: tooltipContent, placement: 'top', hideOnClick: false }}
 				on:click={copyEmail}
 			>
 				<Icon icon="material-symbols:mail" />
