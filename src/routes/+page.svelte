@@ -9,7 +9,7 @@
 	let tooltipContent = 'Click to copy';
 
 	function copyEmail() {
-		navigator.clipboard.writeText('email@example.com');
+		navigator.clipboard.writeText('conner.chu@outlook.com');
 		tooltipContent = 'Copied!';
 		setTimeout(() => {
 			tooltipContent = 'Click to copy';
