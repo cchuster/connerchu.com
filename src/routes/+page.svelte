@@ -35,20 +35,20 @@
 	<div class="hero-body">
 		<OnMount>
 			<div class="container has-text-centered" in:fade>
-				<p class="title" style="font-size: 5.5vh;">Conner Chu</p>
-				<p class="title" style="font-size: 3.5vh;">MCB @ Berkeley</p>
+				<p class="title" style="font-size: 5.5vh; color:white">Conner Chu</p>
+				<p class="title" style="font-size: 3.5vh; color:white">MCB @ Berkeley</p>
 			</div>
 		</OnMount>
 	</div>
 	<div class="hero-foot">
 		<div class="container has-text-centered mb-3 is-size-3">
-			<a href="https://github.com/cchuster" target="_blank" style="font-size: 4vh;"><Icon icon="mdi:github" /></a>
-			<a href="https://www.linkedin.com/in/connerchu" target="_blank" style="font-size: 4vh;"
+			<a href="https://github.com/cchuster" target="_blank" style="font-size: 4vh; color:white"><Icon icon="mdi:github" /></a>
+			<a href="https://www.linkedin.com/in/connerchu" target="_blank" style="font-size: 4vh; color:white"
 				><Icon icon="mdi:linkedin" /></a
 			>
 			<a
 				href="javascript:void(0);"
-				style="font-size: 4vh;"
+				style="font-size: 4vh; color:white"
 				use:tippy={{ content: tooltipContent, placement: 'top', hideOnClick: false }}
 				on:click={copyEmail}
 			>
