@@ -1,0 +1,98 @@
+baseURL = "https://example.com"
+title   = "Conner Chu"
+languageCode = "en-us"
+theme = "hello-friend-ng"
+
+# googleAnalytics = ""
+
+buildDrafts  = false
+buildFuture  = false
+buildExpired = false
+
+[params]
+  # Home subtitle of the index page.
+  #
+  homeSubtitle = "Physics at Berkeley"
+  [params.author]
+    name = "Conner Chu"
+
+  dateform        = "Jan 2, 2006"
+  dateformShort   = "Jan 2"
+  dateformNum     = "2006-01-02"
+  dateformNumTime = "2006-01-02 15:04"
+
+  # Metadata mostly used in document's head
+  # 
+  description = "Personal Website of Conner Chu"
+  keywords = ""
+  images = [""]
+
+  enableSharingButtons = true
+
+  # Custom footer 
+  # If you want, you can easily override the default footer with your own content. 
+  #
+  [params.footer]
+    trademark = 2023
+    bottomText = [
+      "Powered by Hugo and Djordje Atlialp"
+    ]
+
+  # Colors for favicons
+  #
+  [params.favicon.color]
+    mask = "#1b1c1d"
+    msapplication = "#1b1c1d"
+    theme = "#1b1c1d"
+
+  [params.logo]
+    logoMark     = " "
+    logoText     = "Home"
+    logoHomeLink = "/"
+    # Set true to remove the logo cursor entirely.
+    logoCursorDisabled = true
+    
+  # # # # # # # # # # # # # # # # # # # # # # # # # # # # #  
+  # Addon: Startpage portrait 
+  # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
+  # Uncomment this if you want a portrait on your start page
+  #
+  [params.portrait]
+    path     = "/img/headshot.png"
+    alt      = "Portrait"
+    # maxWidth = "50px"
+
+  # # # # # # # # # # # # # # # # # # # # # # # # # # # # #  
+  # Addon: Social icons
+  # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
+  #
+  [[params.social]]
+    name = "github"
+    url  = "https://github.com/cchuster"
+
+  [[params.social]]
+    name = "email"
+    url  = "mailto:connerchu@berkeley.edu"
+
+  [[params.social]]
+    name = "linkedin"
+    url  = "https://www.linkedin.com/in/connerchu/"
+
+[menu]
+  [[menu.main]]
+    identifier = "Resume"
+    name       = "Resume"
+    url        = "resume/"
+    weight     = 1
+
+  [[menu.main]]
+    identifier = "Research"
+    name       = "Research"
+    url        = "research/"
+    weight     = 2
+  
+  [[menu.main]]
+    identifier = "Tidbits"
+    name       = "Tidbits"
+    url        = "tidbits/"
+    weight     = 3
