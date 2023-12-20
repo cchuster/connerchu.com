@@ -33,7 +33,7 @@ job "connerchu.com" {
       }
 
       service {
-        name = "connerchu.com"
+        name = "connerchu"
         port = "http"
 
         tags = [
