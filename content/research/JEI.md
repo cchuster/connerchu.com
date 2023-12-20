@@ -1,6 +1,6 @@
 +++
 title = 'Examining the Growth of Methanotrophic Bacteria Immersed in Extremely Low-Frequency Electromagnetic Fields'
-date = 2022-08-03T23:50:11-08:00
+date = "2022-08-03"
 draft = false
 +++
 

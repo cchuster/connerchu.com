@@ -1,6 +1,6 @@
 +++
 title = 'Earbuds and Airplane Toilets'
-date = 2023-08-03T00:37:26-08:00
+date = 2022-08-03T00:37:26-08:00
 draft = false
 +++
 
