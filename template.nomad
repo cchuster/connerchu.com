@@ -51,4 +51,3 @@ job "connerchu.com" {
     }
   }
 }
-
