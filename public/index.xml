@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Conner Chu</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Conner Chu</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 26 Jul 2024 14:20:39 -0700</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cross-Polarized Attosecond Transient Absorption Spectroscopy of Elemental Tellurium</title>
+      <link>http://localhost:1313/research/atas/</link>
+      <pubDate>Fri, 26 Jul 2024 14:20:39 -0700</pubDate>
+      <guid>http://localhost:1313/research/atas/</guid>
+      <description>This summer, I had the pleasure of working under Jonah Adelman in Prof. Stephen Leone&amp;rsquo;s group at UC Berkeley. Our group specializes in attosecond transient absorption pump-probe spectroscopy via high-harmonic generation, and my lab specifically focuses on applying this technique towards solid-state materials. Over the course of two months, my main objective was familiarizing myself with the first principles governing this spectroscopic method, and to conduct an experiment of my own, namely cross-polarizing the VIS-NIR pump beam and XUV probe beam in our setup to quantify the potential differences in absorption in elemental Tellurium.</description>
+    </item>
+    <item>
+      <title>Resume</title>
+      <link>http://localhost:1313/resume/</link>
+      <pubDate>Sun, 17 Dec 2023 21:40:43 -0800</pubDate>
+      <guid>http://localhost:1313/resume/</guid>
+      <description>It appears you don&#39;t have a PDF plugin for this browser. No biggie... you can click here to download the PDF file.</description>
+    </item>
+    <item>
+      <title>SFMM</title>
+      <link>http://localhost:1313/tidbits/sfmm/</link>
+      <pubDate>Fri, 15 Dec 2023 22:06:28 -0800</pubDate>
+      <guid>http://localhost:1313/tidbits/sfmm/</guid>
+      <description>After going to Six Flags Magic Mountain for the second time today, I wanted to make a quick ranking of all the rides I have ridden there (coasters and flats)!&#xA;Twisted Colossus: RMC, enough said! X2: Pure chaos. Wonder Woman: Back seat only, trust me! Tatsu: A secret line and a pretzel&amp;hellip; Drop of Doom: Are we still falling??? CraZanity: I think I&amp;rsquo;m upside down Viper: 5.21 Gs !?! Full Throttle: Pew Scream!</description>
+    </item>
+    <item>
+      <title>Earbuds and Airplane Toilets</title>
+      <link>http://localhost:1313/tidbits/airplane/</link>
+      <pubDate>Wed, 03 Aug 2022 00:37:26 -0800</pubDate>
+      <guid>http://localhost:1313/tidbits/airplane/</guid>
+      <description>I do not ride on planes often, but when I do I always think of the same two questions.&#xA;Why do I always have to turn the volume of my earbuds higher when I am on an airplane? Is it because of the lower pressure of the cabin compared to the near sea-level altitude that I am used to? Or is it simply because the loud engines drown out the noise of my music?</description>
+    </item>
+    <item>
+      <title>Examining the Growth of Methanotrophic Bacteria Immersed in Extremely Low-Frequency Electromagnetic Fields</title>
+      <link>http://localhost:1313/research/jei/</link>
+      <pubDate>Wed, 03 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/research/jei/</guid>
+      <description>It was around sophomore year of high school when I first learned about the odd fact that cow farts play a considerable role in the release of methane, a potent greenhouse gas, into our atmosphere. This surprising fact led me down a rabbit hole to understand the causes and effects of climate change. Around the same time, I learned and grew skeptical of a relatively new technology, electromagnetic field therapy, which claimed to boost cell proliferation and nutrient circulation in living systems.</description>
+    </item>
+  </channel>
+</rss>

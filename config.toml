@@ -8,6 +8,8 @@ theme = "hello-friend-ng"
 buildDrafts  = false
 buildFuture  = false
 buildExpired = false
+[markup.goldmark.renderer]
+  unsafe = true
 
 [params]
   # Home subtitle of the index page.
@@ -33,7 +35,7 @@ buildExpired = false
   # If you want, you can easily override the default footer with your own content. 
   #
   [params.footer]
-    trademark = 2023
+    trademark = 2024
     bottomText = [
       "Powered by Hugo and Djordje Atlialp"
     ]

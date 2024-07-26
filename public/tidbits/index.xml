@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tidbits on Conner Chu</title>
+    <link>http://localhost:1313/tidbits/</link>
+    <description>Recent content in Tidbits on Conner Chu</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 15 Dec 2023 22:06:28 -0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/tidbits/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>SFMM</title>
+      <link>http://localhost:1313/tidbits/sfmm/</link>
+      <pubDate>Fri, 15 Dec 2023 22:06:28 -0800</pubDate>
+      <guid>http://localhost:1313/tidbits/sfmm/</guid>
+      <description>After going to Six Flags Magic Mountain for the second time today, I wanted to make a quick ranking of all the rides I have ridden there (coasters and flats)!&#xA;Twisted Colossus: RMC, enough said! X2: Pure chaos. Wonder Woman: Back seat only, trust me! Tatsu: A secret line and a pretzel&amp;hellip; Drop of Doom: Are we still falling??? CraZanity: I think I&amp;rsquo;m upside down Viper: 5.21 Gs !?! Full Throttle: Pew Scream!</description>
+    </item>
+    <item>
+      <title>Earbuds and Airplane Toilets</title>
+      <link>http://localhost:1313/tidbits/airplane/</link>
+      <pubDate>Wed, 03 Aug 2022 00:37:26 -0800</pubDate>
+      <guid>http://localhost:1313/tidbits/airplane/</guid>
+      <description>I do not ride on planes often, but when I do I always think of the same two questions.&#xA;Why do I always have to turn the volume of my earbuds higher when I am on an airplane? Is it because of the lower pressure of the cabin compared to the near sea-level altitude that I am used to? Or is it simply because the loud engines drown out the noise of my music?</description>
+    </item>
+  </channel>
+</rss>
