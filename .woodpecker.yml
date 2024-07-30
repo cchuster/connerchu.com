@@ -25,6 +25,5 @@ steps:
     settings:
       addr: http://192.168.100.62:4646
       template: template.nomad
-    environment:
-      - PLUGIN_WATCH_DEPLOYMENT=true
-      - PLUGIN_WATCH_DEPLOYMENT_TIMEOUT=10m
+      watch_deployment: true
+      watch_deployment_timeout: 10m
