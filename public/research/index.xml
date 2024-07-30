@@ -6,12 +6,13 @@
     <description>Recent content in Researches on Conner Chu</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 26 Jul 2024 14:20:39 -0700</lastBuildDate>
+    <copyright>&amp;copy Copyright 2024</copyright>
+    <lastBuildDate>Fri, 26 Jul 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/research/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Cross-Polarized Attosecond Transient Absorption Spectroscopy of Elemental Tellurium</title>
       <link>http://localhost:1313/research/atas/</link>
-      <pubDate>Fri, 26 Jul 2024 14:20:39 -0700</pubDate>
+      <pubDate>Fri, 26 Jul 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/research/atas/</guid>
       <description>This summer, I had the pleasure of working under Jonah Adelman in Prof. Stephen Leone&amp;rsquo;s group at UC Berkeley. Our group specializes in attosecond transient absorption pump-probe spectroscopy via high-harmonic generation, and my lab specifically focuses on applying this technique towards solid-state materials. Over the course of two months, my main objective was familiarizing myself with the first principles governing this spectroscopic method, and to conduct an experiment of my own, namely cross-polarizing the VIS-NIR pump beam and XUV probe beam in our setup to quantify the potential differences in absorption in elemental Tellurium.</description>
     </item>

@@ -1,6 +1,6 @@
 +++
-title = 'SFMM'
-date = 2023-12-15T22:06:28-08:00
+title = 'Six Flags Magic Mountain'
+date = 2023-12-15
 draft = false
 +++
 
@@ -22,4 +22,4 @@ After going to Six Flags Magic Mountain for the second time today, I wanted to m
 14. New Revolution: Night time ride ftw
 15. Gold Rusher
 
-![JPro and I on X2](/img/X2.png)
+![JPro and I on X2](/img/X2.webp)

@@ -6,19 +6,27 @@
     <description>Recent content in Tidbits on Conner Chu</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 15 Dec 2023 22:06:28 -0800</lastBuildDate>
+    <copyright>&amp;copy Copyright 2024</copyright>
+    <lastBuildDate>Mon, 29 Jul 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tidbits/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>SFMM</title>
+      <title>Singular Value Decomposition</title>
+      <link>http://localhost:1313/tidbits/svd/</link>
+      <pubDate>Mon, 29 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tidbits/svd/</guid>
+      <description>Singular Value Decomposition (SVD) is probably one of the coolest concepts in mathematics I have learned so far. Seen by many as the grand finale of an introductory linear algebra course, SVD combines many pervasive topics seen throughout physics and applied math, including eigenvalues/eigenvectors and unitary matrices. Although SVD was not covered in my introductory mathematical physics course, I tried my best to develop a basic understanding of this factorization tool so that I could comfortably use it when decomposing transient absorption data in my work at the Leone Group.</description>
+    </item>
+    <item>
+      <title>Six Flags Magic Mountain</title>
       <link>http://localhost:1313/tidbits/sfmm/</link>
-      <pubDate>Fri, 15 Dec 2023 22:06:28 -0800</pubDate>
+      <pubDate>Fri, 15 Dec 2023 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tidbits/sfmm/</guid>
       <description>After going to Six Flags Magic Mountain for the second time today, I wanted to make a quick ranking of all the rides I have ridden there (coasters and flats)!&#xA;Twisted Colossus: RMC, enough said! X2: Pure chaos. Wonder Woman: Back seat only, trust me! Tatsu: A secret line and a pretzel&amp;hellip; Drop of Doom: Are we still falling??? CraZanity: I think I&amp;rsquo;m upside down Viper: 5.21 Gs !?! Full Throttle: Pew Scream!</description>
     </item>
     <item>
       <title>Earbuds and Airplane Toilets</title>
       <link>http://localhost:1313/tidbits/airplane/</link>
-      <pubDate>Wed, 03 Aug 2022 00:37:26 -0800</pubDate>
+      <pubDate>Wed, 03 Aug 2022 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tidbits/airplane/</guid>
       <description>I do not ride on planes often, but when I do I always think of the same two questions.&#xA;Why do I always have to turn the volume of my earbuds higher when I am on an airplane? Is it because of the lower pressure of the cabin compared to the near sea-level altitude that I am used to? Or is it simply because the loud engines drown out the noise of my music?</description>
     </item>

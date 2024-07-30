@@ -1,6 +1,6 @@
 +++
 title = 'Resume'
-date = 2023-12-17T21:40:43-08:00
+date = 2024-07-26
 draft = false
 +++
 <object data="/Conner Chu's Resume.pdf" type="application/pdf" width="100%" height="1020px">
