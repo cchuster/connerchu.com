@@ -27,3 +27,4 @@ steps:
       template: template.nomad
       watch_deployment: true
       watch_deployment_timeout: 10m
+      
