@@ -48,7 +48,7 @@ math = true
   [params.footer]
     copyright = true
     bottomText = [
-      "Powered by Hugo and Djordje"
+      "Powered by Hugo, Djordje, and Matze"
     ]
 
   # Colors for favicons
