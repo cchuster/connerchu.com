@@ -112,7 +112,7 @@ Ordinal: {{ .Ordinal}}
 <div id="{{ $galleryWrapperId }}" class="gallery-wrapper">
 <div id="{{ $galleryId }}" class="justified-gallery">
         {{ range $original := sort $images "Name" $sortOrder}}
-                {{ if and (eq $original.ResourceType "image") (in "jpeg png tiff webp" $original.MediaType.SubType) }}
+                {{ if and (eq $original.ResourceType "image") (in "jpeg png tiff webp" $original.MediaType.SubType) (not (hasSuffix $original.Name ".meta")) }}
 
                         {{/* Get metadata from sidecar file, if present. Else an empty dictionary is used. */}}
                         {{ $metaFileName := print $original.Name ".meta"}}
@@ -132,8 +132,10 @@ Ordinal: {{ .Ordinal}}
                         {{ end }}
 
                         {{/* If the image has EXIF informations, those are merged together with the metadata from the file */}}
-                        {{ with $original.Exif }}
-                                {{ $metadata = merge .Tags $metadata }}
+                        {{ if $original.Exif }}
+                                {{ with $original.Exif }}
+                                        {{ $metadata = merge .Tags $metadata }}
+                                {{ end }}
                         {{ end }}
 
 
