@@ -1,1 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml"><url><loc>https://connerchu.com/tidbits/cga/</loc><lastmod>2024-09-14T23:30:59-07:00</lastmod></url><url><loc>https://connerchu.com/</loc><lastmod>2024-09-14T23:30:59-07:00</lastmod></url><url><loc>https://connerchu.com/tidbits/</loc><lastmod>2024-09-14T23:30:59-07:00</lastmod></url><url><loc>https://connerchu.com/photography/</loc><lastmod>2024-07-29T14:47:44-07:00</lastmod></url><url><loc>https://connerchu.com/tidbits/svd/</loc><lastmod>2024-07-29T00:00:00+00:00</lastmod></url><url><loc>https://connerchu.com/research/atas/</loc><lastmod>2024-07-26T00:00:00+00:00</lastmod></url><url><loc>https://connerchu.com/research/</loc><lastmod>2024-07-26T00:00:00+00:00</lastmod></url><url><loc>https://connerchu.com/resume/</loc><lastmod>2024-07-26T00:00:00+00:00</lastmod></url><url><loc>https://connerchu.com/tidbits/sfft/</loc><lastmod>2024-07-16T00:00:00+00:00</lastmod></url><url><loc>https://connerchu.com/tidbits/sfmm/</loc><lastmod>2023-12-15T00:00:00+00:00</lastmod></url><url><loc>https://connerchu.com/tidbits/airplane/</loc><lastmod>2022-08-03T00:00:00+00:00</lastmod></url><url><loc>https://connerchu.com/research/jei/</loc><lastmod>2022-08-03T00:00:00+00:00</lastmod></url><url><loc>https://connerchu.com/categories/</loc></url><url><loc>https://connerchu.com/tags/</loc></url></urlset>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://localhost:1313/tidbits/cga/</loc>
+    <lastmod>2024-09-14T23:30:59-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2024-09-14T23:30:59-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tidbits/</loc>
+    <lastmod>2024-09-14T23:30:59-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/photography/</loc>
+    <lastmod>2024-07-29T14:47:44-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tidbits/svd/</loc>
+    <lastmod>2024-07-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/research/atas/</loc>
+    <lastmod>2024-07-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/research/</loc>
+    <lastmod>2024-07-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/resume/</loc>
+    <lastmod>2024-07-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tidbits/sfft/</loc>
+    <lastmod>2024-07-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tidbits/sfmm/</loc>
+    <lastmod>2023-12-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tidbits/airplane/</loc>
+    <lastmod>2022-08-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/research/jei/</loc>
+    <lastmod>2022-08-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+  </url>
+</urlset>

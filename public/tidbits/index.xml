@@ -1,5 +1,48 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Tidbits on Conner Chu</title><link>https://connerchu.com/tidbits/</link><description>Recent content in Tidbits on Conner Chu</description><generator>Hugo</generator><language>en-us</language><copyright>&amp;copy Copyright 2025</copyright><lastBuildDate>Sat, 14 Sep 2024 23:30:59 -0700</lastBuildDate><atom:link href="https://connerchu.com/tidbits/index.xml" rel="self" type="application/rss+xml"/><item><title>California Great America</title><link>https://connerchu.com/tidbits/cga/</link><pubDate>Sat, 14 Sep 2024 23:30:59 -0700</pubDate><guid>https://connerchu.com/tidbits/cga/</guid><description>Had the chance to make a quick day trip to San Jose and visit CGA! Definitely a chill park overall, nothing too crazy, though all the rides were fairly bumpy for some reason lol.
-RailBlazer - RMC&amp;rsquo;s prototype single rail&amp;hellip;a little rough around the edges! Flight Deck - My first greyout?? Drop Tower - Felt taller than I expected! Patriot - Somewhat smooth yay Gold Striker - Bumpy and noisy like any wooden coaster :/ The Grizzly - Super old station The Demon - Apparently historical Pyscho Mouse - Psycho line Mass Effect: New Earth - Interesting smells&amp;hellip;</description></item><item><title>Singular Value Decomposition</title><link>https://connerchu.com/tidbits/svd/</link><pubDate>Mon, 29 Jul 2024 00:00:00 +0000</pubDate><guid>https://connerchu.com/tidbits/svd/</guid><description>Singular Value Decomposition (SVD) is probably one of the coolest concepts in mathematics I have learned so far. Seen by many as the grand finale of an introductory linear algebra course, SVD combines many pervasive topics seen throughout physics and applied math, including eigenvalues/eigenvectors and unitary matrices. Although SVD was not covered in my introductory mathematical physics course, I tried my best to develop a basic understanding of this factorization tool so that I could comfortably use it when decomposing transient absorption data in my work at the Leone Group.</description></item><item><title>Six Flags Fiesta Texas</title><link>https://connerchu.com/tidbits/sfft/</link><pubDate>Tue, 16 Jul 2024 00:00:00 +0000</pubDate><guid>https://connerchu.com/tidbits/sfft/</guid><description>Was in Austin and decided to make the hour drive to San Antonio to visit one of Six Flags&amp;rsquo; flagship parks on a day with only ~9% of full capacity!
-Iron Rattler - Two massive drops over a quarry wall make it my new favorite RMC. Wonder Woman - As with SFFM, back seat only, trust! Dr. Diabolical&amp;rsquo;s Cliffhanger - 95 degree drop!?! Joker: Carnival of Chaos - Not as crazy as CraZanity :( Superman: Krypton Coaster - Nice scenery Scream!</description></item><item><title>Six Flags Magic Mountain</title><link>https://connerchu.com/tidbits/sfmm/</link><pubDate>Fri, 15 Dec 2023 00:00:00 +0000</pubDate><guid>https://connerchu.com/tidbits/sfmm/</guid><description>After going to Six Flags Magic Mountain for the second time today, I wanted to make a quick ranking of all the rides I have ridden there (coasters and flats)!
-Twisted Colossus - RMC, enough said! X2 - Pure chaos. Wonder Woman - Back seat only, trust me! Tatsu - A secret line and a pretzel&amp;hellip; Drop of Doom - Are we still falling??? CraZanity - I think I&amp;rsquo;m upside down Viper - 5.</description></item><item><title>Earbuds and Airplane Toilets</title><link>https://connerchu.com/tidbits/airplane/</link><pubDate>Wed, 03 Aug 2022 00:00:00 +0000</pubDate><guid>https://connerchu.com/tidbits/airplane/</guid><description>I do not ride on planes often, but when I do I always think of the same two questions.
-Why do I always have to turn the volume of my earbuds higher when I am on an airplane? Is it because of the lower pressure of the cabin compared to the near sea-level altitude that I am used to? Or is it simply because the loud engines drown out the noise of my music?</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tidbits on Conner Chu</title>
+    <link>http://localhost:1313/tidbits/</link>
+    <description>Recent content in Tidbits on Conner Chu</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy Copyright 2025</copyright>
+    <lastBuildDate>Sat, 14 Sep 2024 23:30:59 -0700</lastBuildDate>
+    <atom:link href="http://localhost:1313/tidbits/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>California Great America</title>
+      <link>http://localhost:1313/tidbits/cga/</link>
+      <pubDate>Sat, 14 Sep 2024 23:30:59 -0700</pubDate>
+      <guid>http://localhost:1313/tidbits/cga/</guid>
+      <description>Had the chance to make a quick day trip to San Jose and visit CGA! Definitely a chill park overall, nothing too crazy, though all the rides were fairly bumpy for some reason lol.&#xA;RailBlazer - RMC&amp;rsquo;s prototype single rail&amp;hellip;a little rough around the edges! Flight Deck - My first greyout?? Drop Tower - Felt taller than I expected! Patriot - Somewhat smooth yay Gold Striker - Bumpy and noisy like any wooden coaster :/ The Grizzly - Super old station The Demon - Apparently historical Pyscho Mouse - Psycho line Mass Effect: New Earth - Interesting smells&amp;hellip; </description>
+    </item>
+    <item>
+      <title>Singular Value Decomposition</title>
+      <link>http://localhost:1313/tidbits/svd/</link>
+      <pubDate>Mon, 29 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tidbits/svd/</guid>
+      <description>Singular Value Decomposition (SVD) is probably one of the coolest concepts in mathematics I have learned so far. Seen by many as the grand finale of an introductory linear algebra course, SVD combines many pervasive topics seen throughout physics and applied math, including eigenvalues/eigenvectors and unitary matrices. Although SVD was not covered in my introductory mathematical physics course, I tried my best to develop a basic understanding of this factorization tool so that I could comfortably use it when decomposing transient absorption data in my work at the Leone Group.</description>
+    </item>
+    <item>
+      <title>Six Flags Fiesta Texas</title>
+      <link>http://localhost:1313/tidbits/sfft/</link>
+      <pubDate>Tue, 16 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tidbits/sfft/</guid>
+      <description>Was in Austin and decided to make the hour drive to San Antonio to visit one of Six Flags&amp;rsquo; flagship parks on a day with only ~9% of full capacity!&#xA;Iron Rattler - Two massive drops over a quarry wall make it my new favorite RMC. Wonder Woman - As with SFFM, back seat only, trust! Dr. Diabolical&amp;rsquo;s Cliffhanger - 95 degree drop!?! Joker: Carnival of Chaos - Not as crazy as CraZanity :( Superman: Krypton Coaster - Nice scenery Scream!</description>
+    </item>
+    <item>
+      <title>Six Flags Magic Mountain</title>
+      <link>http://localhost:1313/tidbits/sfmm/</link>
+      <pubDate>Fri, 15 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tidbits/sfmm/</guid>
+      <description>After going to Six Flags Magic Mountain for the second time today, I wanted to make a quick ranking of all the rides I have ridden there (coasters and flats)!&#xA;Twisted Colossus - RMC, enough said! X2 - Pure chaos. Wonder Woman - Back seat only, trust me! Tatsu - A secret line and a pretzel&amp;hellip; Drop of Doom - Are we still falling??? CraZanity - I think I&amp;rsquo;m upside down Viper - 5.</description>
+    </item>
+    <item>
+      <title>Earbuds and Airplane Toilets</title>
+      <link>http://localhost:1313/tidbits/airplane/</link>
+      <pubDate>Wed, 03 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tidbits/airplane/</guid>
+      <description>I do not ride on planes often, but when I do I always think of the same two questions.&#xA;Why do I always have to turn the volume of my earbuds higher when I am on an airplane? Is it because of the lower pressure of the cabin compared to the near sea-level altitude that I am used to? Or is it simply because the loud engines drown out the noise of my music?</description>
+    </item>
+  </channel>
+</rss>
