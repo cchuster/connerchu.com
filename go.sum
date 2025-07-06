@@ -1,2 +1,4 @@
-github.com/mfg92/hugo-shortcode-gallery v1.2.0 h1:gkCZ08gNSoU/RymTScnR+Dh0gEwhlaxEjI0o2NTpWbA=
-github.com/mfg92/hugo-shortcode-gallery v1.2.0/go.mod h1:zKnMCx7OJJPTfVNalUAFGkNVABLCqIuPl57NeBtSFc0=
+github.com/mfg92/hugo-shortcode-gallery v1.3.0 h1:7wiUUu7adN3JbcshZfZ+Q0ZLDilPoGkquoor0ZcdJVU=
+github.com/mfg92/hugo-shortcode-gallery v1.3.0/go.mod h1:SEdbeBGSMX2lP+4nCqqy9AyTWWktUMWXYnR3r1l01Rw=
+github.com/rhazdon/hugo-theme-hello-friend-ng v0.0.0-20241018203211-37fbce29a553 h1:O76EYvy/cAc6eTa8ioe2SW+93YzbVeu9lEHynaQeegk=
+github.com/rhazdon/hugo-theme-hello-friend-ng v0.0.0-20241018203211-37fbce29a553/go.mod h1:qzfSzxZEtVIkUEYnXdJV8PmJZMTSSZkfek5uhxFdpHA=
