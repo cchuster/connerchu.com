@@ -1,7 +1,7 @@
 baseURL = "https://connerchu.com"
 title   = "Conner Chu"
 languageCode = "en-us"
-theme = "hello-friend-ng"
+theme = "hugo-theme-hello-friend-ng"
 copyright = "&copy Copyright 2025"
 timeout = "1h"
 
@@ -20,9 +20,6 @@ buildExpired = false
           
 [[module.imports]]
 path = "github.com/mfg92/hugo-shortcode-gallery"
-
-[[module.imports]]
-path = "github.com/rhazdon/hugo-theme-hello-friend-ng"
 
 [params]
 math = true

@@ -1,2 +1,0 @@
-# github.com/mfg92/hugo-shortcode-gallery v1.3.0
-# github.com/rhazdon/hugo-theme-hello-friend-ng v0.0.0-20241018203211-37fbce29a553
