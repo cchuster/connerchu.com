@@ -1,1 +1,27 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Researches on Conner Chu</title><link>https://connerchu.com/research/</link><description>Recent content in Researches on Conner Chu</description><generator>Hugo</generator><language>en-us</language><copyright>&amp;copy Copyright 2025</copyright><lastBuildDate>Fri, 26 Jul 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://connerchu.com/research/index.xml" rel="self" type="application/rss+xml"/><item><title>Cross-Polarized Attosecond Transient Absorption Spectroscopy of Elemental Tellurium</title><link>https://connerchu.com/research/atas/</link><pubDate>Fri, 26 Jul 2024 00:00:00 +0000</pubDate><guid>https://connerchu.com/research/atas/</guid><description>This summer, I had the pleasure of working under Jonah Adelman in Prof. Stephen Leone&amp;rsquo;s group at UC Berkeley. Our group specializes in attosecond transient absorption pump-probe spectroscopy via high-harmonic generation, and my lab specifically focuses on applying this technique towards solid-state materials. Over the course of two months, my main objective was familiarizing myself with the first principles governing this spectroscopic method, and to conduct an experiment of my own, namely cross-polarizing the VIS-NIR pump beam and XUV probe beam in our setup to quantify the potential differences in absorption in elemental Tellurium.</description></item><item><title>Examining the Growth of Methanotrophic Bacteria Immersed in Extremely Low-Frequency Electromagnetic Fields</title><link>https://connerchu.com/research/jei/</link><pubDate>Wed, 03 Aug 2022 00:00:00 +0000</pubDate><guid>https://connerchu.com/research/jei/</guid><description>It was around sophomore year of high school when I first learned about the odd fact that cow farts play a considerable role in the release of methane, a potent greenhouse gas, into our atmosphere. This surprising fact led me down a rabbit hole to understand the causes and effects of climate change. Around the same time, I learned and grew skeptical of a relatively new technology, electromagnetic field therapy, which claimed to boost cell proliferation and nutrient circulation in living systems.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Researches on Conner Chu</title>
+    <link>http://localhost:1313/research/</link>
+    <description>Recent content in Researches on Conner Chu</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy Copyright 2025</copyright>
+    <lastBuildDate>Fri, 26 Jul 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/research/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cross-Polarized Attosecond Transient Absorption Spectroscopy of Elemental Tellurium</title>
+      <link>http://localhost:1313/research/atas/</link>
+      <pubDate>Fri, 26 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/research/atas/</guid>
+      <description>This summer, I had the pleasure of working under Jonah Adelman in Prof. Stephen Leone&amp;rsquo;s group at UC Berkeley. Our group specializes in attosecond transient absorption pump-probe spectroscopy via high-harmonic generation, and my lab specifically focuses on applying this technique towards solid-state materials. Over the course of two months, my main objective was familiarizing myself with the first principles governing this spectroscopic method, and to conduct an experiment of my own, namely cross-polarizing the VIS-NIR pump beam and XUV probe beam in our setup to quantify the potential differences in absorption in elemental Tellurium.</description>
+    </item>
+    <item>
+      <title>Examining the Growth of Methanotrophic Bacteria Immersed in Extremely Low-Frequency Electromagnetic Fields</title>
+      <link>http://localhost:1313/research/jei/</link>
+      <pubDate>Wed, 03 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/research/jei/</guid>
+      <description>It was around sophomore year of high school when I first learned about the odd fact that cow farts play a considerable role in the release of methane, a potent greenhouse gas, into our atmosphere. This surprising fact led me down a rabbit hole to understand the causes and effects of climate change. Around the same time, I learned and grew skeptical of a relatively new technology, electromagnetic field therapy, which claimed to boost cell proliferation and nutrient circulation in living systems.</description>
+    </item>
+  </channel>
+</rss>
