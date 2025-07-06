@@ -3,7 +3,7 @@ title   = "Conner Chu"
 languageCode = "en-us"
 theme = "hugo-theme-hello-friend-ng"
 copyright = "&copy Copyright 2025"
-timeout = "1h"
+timeout = 60000
 
 # googleAnalytics = ""
 
