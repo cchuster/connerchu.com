@@ -11,9 +11,6 @@ layout = "photography"
     rowHeight="150"
     margins="5"
     thumbnailResizeOptions="600x600 q90 Lanczos"
-    showExif=TRUE
     previewType="blur"
-    embedPreview=TRUE
-    loadJQuery=TRUE
 >}}
 
