@@ -1,6 +1,6 @@
 {
     "git": {
-    "submodule": true
+        "submodule": true
     },
     "build": {
         "env": {
