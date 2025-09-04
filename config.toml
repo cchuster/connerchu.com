@@ -80,10 +80,6 @@ math = true
   # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
   #
   [[params.social]]
-    name = "github"
-    url  = "https://github.com/cchuster"
-
-  [[params.social]]
     name = "email"
     url  = "mailto:connerchu@berkeley.edu"
 
